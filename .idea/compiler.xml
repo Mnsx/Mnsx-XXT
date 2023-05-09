@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mnsx_xxt_course_service" />
+        <module name="mnsx_xxt_course_model" />
+        <module name="mnsx_xxt_auth_model" />
+        <module name="mnsx_xxt_gateway" />
+        <module name="mnsx_xxt_study_model" />
+        <module name="mnsx_xxt_course_api" />
+        <module name="mnsx_xxt_media_model" />
+        <module name="mnsx_xxt_media_api" />
+        <module name="mnsx_xxt_study_service" />
+        <module name="mnsx_xxt_base" />
+        <module name="mnsx_xxt_study_api" />
+        <module name="mnsx_xxt_auth_api" />
+        <module name="mnsx_xxt_auth_service" />
+        <module name="mnsx_xxt_media_service" />
+        <module name="mnsx_job_core" />
+      </profile>
+      <profile name="Annotation profile for mnsx_job_admin" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Application/Maven/apache-maven-3.8.6-bin/repository/org/projectlombok/lombok/1.18.26/lombok-1.18.26.jar" />
+        </processorPath>
+        <module name="mnsx_job_admin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="mnsx-message-sdk" target="8" />
+      <module name="mnsx_job_admin" target="1.8" />
+      <module name="mnsx_job_core" target="8" />
+      <module name="mnsx_xxt_auth" target="8" />
+      <module name="mnsx_xxt_auth_api" target="8" />
+      <module name="mnsx_xxt_auth_model" target="8" />
+      <module name="mnsx_xxt_auth_service" target="8" />
+      <module name="mnsx_xxt_base" target="8" />
+      <module name="mnsx_xxt_content" target="8" />
+      <module name="mnsx_xxt_content_api" target="8" />
+      <module name="mnsx_xxt_content_model" target="8" />
+      <module name="mnsx_xxt_content_service" target="8" />
+      <module name="mnsx_xxt_course" target="8" />
+      <module name="mnsx_xxt_course_api" target="8" />
+      <module name="mnsx_xxt_course_model" target="8" />
+      <module name="mnsx_xxt_course_service" target="8" />
+      <module name="mnsx_xxt_gateway" target="8" />
+      <module name="mnsx_xxt_media" target="8" />
+      <module name="mnsx_xxt_media_api" target="8" />
+      <module name="mnsx_xxt_media_model" target="8" />
+      <module name="mnsx_xxt_media_service" target="8" />
+      <module name="mnsx_xxt_parent" target="8" />
+      <module name="mnsx_xxt_study" target="8" />
+      <module name="mnsx_xxt_study_api" target="8" />
+      <module name="mnsx_xxt_study_model" target="8" />
+      <module name="mnsx_xxt_study_service" target="8" />
+      <module name="mnsx_xxt_system" target="8" />
+      <module name="mnsx_xxt_system_api" target="8" />
+      <module name="mnsx_xxt_system_model" target="8" />
+      <module name="mnsx_xxt_system_service" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

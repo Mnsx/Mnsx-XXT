@@ -1,0 +1,6 @@
+top\mnsx\media\dto\QueryMediaParamsDto.class
+top\mnsx\media\po\MediaFile.class
+top\mnsx\media\po\MediaProcessHistory.class
+top\mnsx\media\po\MediaProcess.class
+top\mnsx\media\dto\UploadFileParamsDto.class
+top\mnsx\media\dto\UploadFileResultDto.class

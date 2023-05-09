@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: auth-service
+  cloud:
+    nacos:
+      server-addr: 192.168.92.131:8848
+      discovery:
+        group: xxt
+      config:
+        group: xxt
+        file-extension: yaml
+        refresh-enabled: true
+
+  #profiles默认为dev
+  profiles:
+    active: dev
+
+
+

@@ -1,0 +1,17 @@
+top\mnsx\course\dto\AddCourseDto.class
+top\mnsx\course\dto\SaveCatalogueDto.class
+top\mnsx\course\po\CourseAudit.class
+top\mnsx\course\po\CatalogueMedia.class
+top\mnsx\course\po\CourseInfo.class
+top\mnsx\course\dto\CourseCategoryTreeDto.class
+top\mnsx\course\dto\CourseInfoDto.class
+top\mnsx\course\po\CourseCatalogue.class
+top\mnsx\course\dto\BindCatalogueMediaDto.class
+top\mnsx\course\enums\IfChargeEnum.class
+top\mnsx\course\po\CourseCategory.class
+top\mnsx\course\po\CatalogueWork.class
+top\mnsx\course\po\CourseSale.class
+top\mnsx\course\dto\CatalogueDto.class
+top\mnsx\course\enums\AuditStatusEnum.class
+top\mnsx\course\dto\QueryCourseParamsDto.class
+top\mnsx\course\dto\EditCourseDto.class

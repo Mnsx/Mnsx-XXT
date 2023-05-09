@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="top.mnsx.course.mapper.CourseCategoryMapper">
+
+    <resultMap id="BaseResultMap" type="top.mnsx.course.po.CourseCategory">
+            <id property="id" column="id" jdbcType="INTEGER"/>
+            <result property="categoryName" column="category_name" jdbcType="VARCHAR"/>
+            <result property="parentId" column="parent_id" jdbcType="VARCHAR"/>
+            <result property="isShow" column="is_show" jdbcType="INTEGER"/>
+            <result property="orderBy" column="order_by" jdbcType="INTEGER"/>
+            <result property="isLeaf" column="is_leaf" jdbcType="INTEGER"/>
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        id,category_name,parent_id,
+        is_show,order_by,is_leaf
+    </sql>
+    <select id="selectTreeNodes" resultType="top.mnsx.course.dto.CourseCategoryTreeDto" parameterType="string">
+        with recursive cte as (
+            select * from course_category as root where id = #{id} union all
+            select temp.* from course_category as temp inner join cte on cte.id = temp.parent_id
+        )
+        select * from cte order by cte.id, cte.order_by
+    </select>
+</mapper>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.aliyun:aliyun-java-core:0.1.11-beta">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Application/Maven/apache-maven-3.8.6-bin/repository/com/aliyun/aliyun-java-core/0.1.11-beta/aliyun-java-core-0.1.11-beta.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Application/Maven/apache-maven-3.8.6-bin/repository/com/aliyun/aliyun-java-core/0.1.11-beta/aliyun-java-core-0.1.11-beta-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Application/Maven/apache-maven-3.8.6-bin/repository/com/aliyun/aliyun-java-core/0.1.11-beta/aliyun-java-core-0.1.11-beta-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

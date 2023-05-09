@@ -1,0 +1,13 @@
+#微服务配置
+spring:
+  application:
+    name: course-service
+  cloud:
+    nacos:
+      server-addr: 192.168.92.131:8848
+      config:
+        group: xxt
+        file-extension: yaml
+        refresh-enabled: true
+  profiles:
+    active: dev

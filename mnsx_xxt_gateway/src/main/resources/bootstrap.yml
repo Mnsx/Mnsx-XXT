@@ -1,0 +1,25 @@
+spring:
+  application:
+    name: gateway
+  cloud:
+    nacos:
+      server-addr: 192.168.92.131:8848
+      discovery:
+        group: xxt
+      config:
+        group: xxt
+        file-extension: yaml
+        refresh-enabled: true
+        shared-configs:
+          - data-id: redis-cache-${spring.profiles.active}.yaml
+            group: xxt
+            refresh: true
+          - data-id: auth-service-${spring.profiles.active}.yaml
+            group: xxt
+            refresh: true
+  #profiles默认为dev
+  profiles:
+    active: dev
+
+
+

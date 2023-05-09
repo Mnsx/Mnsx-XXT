@@ -1,0 +1,17 @@
+D:\WorkSpace\Mnsx-XXT\mnsx_xxt_course\mnsx_xxt_course_model\src\main\java\top\mnsx\course\dto\QueryCourseParamsDto.java
+D:\WorkSpace\Mnsx-XXT\mnsx_xxt_course\mnsx_xxt_course_model\src\main\java\top\mnsx\course\po\CourseInfo.java
+D:\WorkSpace\Mnsx-XXT\mnsx_xxt_course\mnsx_xxt_course_model\src\main\java\top\mnsx\course\dto\AddCourseDto.java
+D:\WorkSpace\Mnsx-XXT\mnsx_xxt_course\mnsx_xxt_course_model\src\main\java\top\mnsx\course\po\CourseSale.java
+D:\WorkSpace\Mnsx-XXT\mnsx_xxt_course\mnsx_xxt_course_model\src\main\java\top\mnsx\course\dto\SaveCatalogueDto.java
+D:\WorkSpace\Mnsx-XXT\mnsx_xxt_course\mnsx_xxt_course_model\src\main\java\top\mnsx\course\enums\AuditStatusEnum.java
+D:\WorkSpace\Mnsx-XXT\mnsx_xxt_course\mnsx_xxt_course_model\src\main\java\top\mnsx\course\po\CatalogueMedia.java
+D:\WorkSpace\Mnsx-XXT\mnsx_xxt_course\mnsx_xxt_course_model\src\main\java\top\mnsx\course\po\CourseCategory.java
+D:\WorkSpace\Mnsx-XXT\mnsx_xxt_course\mnsx_xxt_course_model\src\main\java\top\mnsx\course\po\CourseCatalogue.java
+D:\WorkSpace\Mnsx-XXT\mnsx_xxt_course\mnsx_xxt_course_model\src\main\java\top\mnsx\course\dto\CatalogueDto.java
+D:\WorkSpace\Mnsx-XXT\mnsx_xxt_course\mnsx_xxt_course_model\src\main\java\top\mnsx\course\dto\CourseCategoryTreeDto.java
+D:\WorkSpace\Mnsx-XXT\mnsx_xxt_course\mnsx_xxt_course_model\src\main\java\top\mnsx\course\dto\CourseInfoDto.java
+D:\WorkSpace\Mnsx-XXT\mnsx_xxt_course\mnsx_xxt_course_model\src\main\java\top\mnsx\course\po\CatalogueWork.java
+D:\WorkSpace\Mnsx-XXT\mnsx_xxt_course\mnsx_xxt_course_model\src\main\java\top\mnsx\course\dto\BindCatalogueMediaDto.java
+D:\WorkSpace\Mnsx-XXT\mnsx_xxt_course\mnsx_xxt_course_model\src\main\java\top\mnsx\course\enums\IfChargeEnum.java
+D:\WorkSpace\Mnsx-XXT\mnsx_xxt_course\mnsx_xxt_course_model\src\main\java\top\mnsx\course\dto\EditCourseDto.java
+D:\WorkSpace\Mnsx-XXT\mnsx_xxt_course\mnsx_xxt_course_model\src\main\java\top\mnsx\course\po\CourseAudit.java

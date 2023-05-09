@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mnsx_xxt_system_model" />
+        <module name="mnsx_xxt_system_api" />
+        <module name="mnsx_xxt_content_model" />
+        <module name="mnsx_xxt_content_api" />
+        <module name="mnsx_xxt_media_service" />
+        <module name="mnsx_xxt_gateway" />
+        <module name="mnsx_xxt_media_model" />
+        <module name="mnsx_xxt_content_service" />
+        <module name="mnsx_xxt_media_api" />
+        <module name="mnsx_xxt_system_service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+</project>

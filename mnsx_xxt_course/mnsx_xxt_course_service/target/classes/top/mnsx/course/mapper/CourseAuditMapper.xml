@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="top.mnsx.course.mapper.CourseAuditMapper">
+
+    <resultMap id="BaseResultMap" type="top.mnsx.course.po.CourseAudit">
+            <id property="id" column="id" jdbcType="INTEGER"/>
+            <result property="courseId" column="course_id" jdbcType="INTEGER"/>
+            <result property="auditMsg" column="audit_msg" jdbcType="VARCHAR"/>
+            <result property="auditStatus" column="audit_status" jdbcType="INTEGER"/>
+            <result property="auditor" column="auditor" jdbcType="VARCHAR"/>
+            <result property="auditTime" column="audit_time" jdbcType="TIMESTAMP"/>
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        id,course_id,audit_msg,
+        audit_status,auditor,audit_time
+    </sql>
+</mapper>

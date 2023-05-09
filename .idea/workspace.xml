@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c7342aa-7be4-4e58-9ad5-c705aae202fb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Application\Maven\apache-maven-3.8.6-bin\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Application/Maven/apache-maven-3.8.6-bin/apache-maven-3.8.6" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\Application\Maven\apache-maven-3.8.6-bin\apache-maven-3.8.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2NzqotQTBNJgMupKhf529SrXjv7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mnsx_xxt_study/mnsx_xxt_study_service/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="top.mnsx.auth.service.impl" />
+      <recent name="top.mnsx.auth.service" />
+      <recent name="top.mnsx.course.service.impl" />
+      <recent name="top.mnsx.media.service.impl" />
+      <recent name="top.mnsx.content.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\Mnsx-XXT\mnsx_xxt_study\mnsx_xxt_study_service\src\main\resources" />
+      <recent name="D:\WorkSpace\Mnsx-XXT\mnsx_xxt_auth\mnsx_xxt_auth_service\src\main\java\top\mnsx\auth\utils" />
+      <recent name="D:\WorkSpace\Mnsx-XXT\mnsx_xxt_gateway\src\main\resources" />
+      <recent name="D:\WorkSpace\Mnsx-XXT\mnsx_xxt_auth\mnsx_xxt_auth_service\src\main\resources" />
+      <recent name="D:\WorkSpace\Mnsx-XXT\mnsx_job_core\src\main\java\top\mnsx\utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\Mnsx-XXT\mnsx_xxt_study\mnsx_xxt_study_model\src\main\java\top\mnsx\study\po" />
+      <recent name="D:\WorkSpace\Mnsx-XXT\mnsx_xxt_gateway\src\main\resources\mapper" />
+      <recent name="D:\WorkSpace\Mnsx-XXT\mnsx_xxt_media\mnsx_xxt_media_service\src\main\resources\top\mnsx\media\mapper" />
+      <recent name="D:\WorkSpace\Mnsx-XXT\mnsx_xxt_auth\mnsx_xxt_auth_api\src\main\resources" />
+      <recent name="D:\WorkSpace\Mnsx-XXT\mnsx_xxt_auth\mnsx_xxt_auth_service\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="top.mnsx.study.config" />
+      <recent name="top.mnsx.auth.config" />
+      <recent name="top.mnsx.gateway" />
+      <recent name="top.mnsx.utils" />
+      <recent name="top.mnsx.course.config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+        <option value="ChromiumRemoteDebugType" />
+        <option value="MavenRunConfiguration" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MediaApplication">
+    <configuration name="AuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mnsx_xxt_auth_api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.mnsx.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="top.mnsx.auth.AuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mnsx_xxt_course_api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.mnsx.course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="top.mnsx.course.CourseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mnsx_xxt_gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.mnsx.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="top.mnsx.auth.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MediaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mnsx_xxt_media_api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.mnsx.media.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="top.mnsx.media.MediaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MnsxJobApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mnsx_job_admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="top.mnsx.MnsxJobApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mnsx_xxt_study_api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.mnsx.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="top.mnsx.study.StudyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MediaApplication" />
+        <item itemvalue="Spring Boot.GatewayApplication" />
+        <item itemvalue="Spring Boot.CourseApplication" />
+        <item itemvalue="Spring Boot.StudyApplication" />
+        <item itemvalue="Spring Boot.AuthApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c7342aa-7be4-4e58-9ad5-c705aae202fb" name="Changes" comment="" />
+      <created>1680677440867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680677440867</updated>
+      <workItem from="1680677443255" duration="880000" />
+      <workItem from="1680678350162" duration="36000" />
+      <workItem from="1680678403489" duration="2445000" />
+      <workItem from="1680680919907" duration="2881000" />
+      <workItem from="1680683846373" duration="1119000" />
+      <workItem from="1680684998568" duration="781000" />
+      <workItem from="1680685792870" duration="11290000" />
+      <workItem from="1680756698158" duration="12615000" />
+      <workItem from="1680852421956" duration="12193000" />
+      <workItem from="1681031164977" duration="31813000" />
+      <workItem from="1681183669746" duration="1163000" />
+      <workItem from="1681184863358" duration="128000" />
+      <workItem from="1681185027862" duration="292000" />
+      <workItem from="1681185346182" duration="3104000" />
+      <workItem from="1681224072016" duration="793000" />
+      <workItem from="1681224888256" duration="2061000" />
+      <workItem from="1681227126129" duration="77000" />
+      <workItem from="1681227246065" duration="402000" />
+      <workItem from="1681281166943" duration="620000" />
+      <workItem from="1681351625424" duration="5275000" />
+      <workItem from="1681486619363" duration="6986000" />
+      <workItem from="1681539608603" duration="11290000" />
+      <workItem from="1681619087523" duration="25776000" />
+      <workItem from="1681693541977" duration="12070000" />
+      <workItem from="1681782157499" duration="7428000" />
+      <workItem from="1681885985357" duration="5339000" />
+      <workItem from="1681912074282" duration="595000" />
+      <workItem from="1681955370654" duration="862000" />
+      <workItem from="1681972223558" duration="2084000" />
+      <workItem from="1681995570426" duration="4396000" />
+      <workItem from="1682139497968" duration="9565000" />
+      <workItem from="1682325988547" duration="4261000" />
+      <workItem from="1682386017766" duration="1697000" />
+      <workItem from="1682390177859" duration="4884000" />
+      <workItem from="1682409257571" duration="9213000" />
+      <workItem from="1682476631357" duration="846000" />
+      <workItem from="1683530536495" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:com.google.protobuf:protobuf-java" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
+    <option featureType="dependencySupport" implementationName="java:io.projectreactor:reactor-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-context" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate.validator:hibernate-validator" />
+    <option featureType="dependencySupport" implementationName="java:io.minio:minio" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mnsx_xxt_auth/mnsx_xxt_auth_service/src/main/java/top/mnsx/auth/handler/PhoneLoginHandler.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mnsx_xxt_course/mnsx_xxt_course_service/src/main/java/top/mnsx/course/service/impl/CoursePublishServiceImpl.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mnsx_xxt_media/mnsx_xxt_media_service/src/main/java/top/mnsx/media/service/impl/MediaFileServiceImpl.java</url>
+          <line>235</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

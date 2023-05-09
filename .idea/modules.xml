@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mnsx-XXT.iml" filepath="$PROJECT_DIR$/.idea/Mnsx-XXT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mnsx_job_admin/mnsx_job_admin.iml" filepath="$PROJECT_DIR$/mnsx_job_admin/mnsx_job_admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mnsx_job_core/mnsx_job_core.iml" filepath="$PROJECT_DIR$/mnsx_job_core/mnsx_job_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mnsx_xxt_auth/mnsx_xxt_auth.iml" filepath="$PROJECT_DIR$/mnsx_xxt_auth/mnsx_xxt_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mnsx_xxt_auth/mnsx_xxt_auth_api/mnsx_xxt_auth_api.iml" filepath="$PROJECT_DIR$/mnsx_xxt_auth/mnsx_xxt_auth_api/mnsx_xxt_auth_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mnsx_xxt_auth/mnsx_xxt_auth_model/mnsx_xxt_auth_model.iml" filepath="$PROJECT_DIR$/mnsx_xxt_auth/mnsx_xxt_auth_model/mnsx_xxt_auth_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mnsx_xxt_auth/mnsx_xxt_auth_service/mnsx_xxt_auth_service.iml" filepath="$PROJECT_DIR$/mnsx_xxt_auth/mnsx_xxt_auth_service/mnsx_xxt_auth_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mnsx_xxt_base/mnsx_xxt_base.iml" filepath="$PROJECT_DIR$/mnsx_xxt_base/mnsx_xxt_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mnsx_xxt_course/mnsx_xxt_course.iml" filepath="$PROJECT_DIR$/mnsx_xxt_course/mnsx_xxt_course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mnsx_xxt_course/mnsx_xxt_course_api/mnsx_xxt_course_api.iml" filepath="$PROJECT_DIR$/mnsx_xxt_course/mnsx_xxt_course_api/mnsx_xxt_course_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mnsx_xxt_course/mnsx_xxt_course_model/mnsx_xxt_course_model.iml" filepath="$PROJECT_DIR$/mnsx_xxt_course/mnsx_xxt_course_model/mnsx_xxt_course_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mnsx_xxt_course/mnsx_xxt_course_service/mnsx_xxt_course_service.iml" filepath="$PROJECT_DIR$/mnsx_xxt_course/mnsx_xxt_course_service/mnsx_xxt_course_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mnsx_xxt_gateway/mnsx_xxt_gateway.iml" filepath="$PROJECT_DIR$/mnsx_xxt_gateway/mnsx_xxt_gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mnsx_xxt_media/mnsx_xxt_media.iml" filepath="$PROJECT_DIR$/mnsx_xxt_media/mnsx_xxt_media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mnsx_xxt_media/mnsx_xxt_media_api/mnsx_xxt_media_api.iml" filepath="$PROJECT_DIR$/mnsx_xxt_media/mnsx_xxt_media_api/mnsx_xxt_media_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mnsx_xxt_media/mnsx_xxt_media_model/mnsx_xxt_media_model.iml" filepath="$PROJECT_DIR$/mnsx_xxt_media/mnsx_xxt_media_model/mnsx_xxt_media_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mnsx_xxt_media/mnsx_xxt_media_service/mnsx_xxt_media_service.iml" filepath="$PROJECT_DIR$/mnsx_xxt_media/mnsx_xxt_media_service/mnsx_xxt_media_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mnsx_xxt_parent/mnsx_xxt_parent.iml" filepath="$PROJECT_DIR$/mnsx_xxt_parent/mnsx_xxt_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mnsx_xxt_study/mnsx_xxt_study.iml" filepath="$PROJECT_DIR$/mnsx_xxt_study/mnsx_xxt_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mnsx_xxt_study/mnsx_xxt_study_api/mnsx_xxt_study_api.iml" filepath="$PROJECT_DIR$/mnsx_xxt_study/mnsx_xxt_study_api/mnsx_xxt_study_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mnsx_xxt_study/mnsx_xxt_study_model/mnsx_xxt_study_model.iml" filepath="$PROJECT_DIR$/mnsx_xxt_study/mnsx_xxt_study_model/mnsx_xxt_study_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mnsx_xxt_study/mnsx_xxt_study_service/mnsx_xxt_study_service.iml" filepath="$PROJECT_DIR$/mnsx_xxt_study/mnsx_xxt_study_service/mnsx_xxt_study_service.iml" />
+    </modules>
+  </component>
+</project>

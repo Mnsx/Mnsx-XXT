@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/mnsx_job_admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_job_admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_auth/mnsx_xxt_auth_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_auth/mnsx_xxt_auth_api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_auth/mnsx_xxt_auth_model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_auth/mnsx_xxt_auth_model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_auth/mnsx_xxt_auth_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_auth/mnsx_xxt_auth_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_base/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_course/mnsx_xxt_course_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_course/mnsx_xxt_course_api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_course/mnsx_xxt_course_model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_course/mnsx_xxt_course_model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_course/mnsx_xxt_course_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_course/mnsx_xxt_course_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_course/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_course/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_media/mnsx_xxt_media_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_media/mnsx_xxt_media_api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_media/mnsx_xxt_media_model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_media/mnsx_xxt_media_model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_media/mnsx_xxt_media_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_media/mnsx_xxt_media_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_media/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_media/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_study/mnsx_xxt_study_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_study/mnsx_xxt_study_api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_study/mnsx_xxt_study_model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_study/mnsx_xxt_study_model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_study/mnsx_xxt_study_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_study/mnsx_xxt_study_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_study/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_study/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_system/mnsx_xxt_system_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_system/mnsx_xxt_system_api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_system/mnsx_xxt_system_model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_system/mnsx_xxt_system_model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_system/mnsx_xxt_system_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_system/mnsx_xxt_system_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnsx_xxt_system/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+top\mnsx\media\service\impl\MediaFileProcessServiceImpl.class
+top\mnsx\media\config\MybatisPlusConfig.class
+top\mnsx\media\handler\VideoHandler.class
+top\mnsx\media\service\MediaFileProcessService.class
+top\mnsx\media\mapper\MediaProcessHistoryMapper.class
+top\mnsx\media\mapper\MediaProcessMapper.class
+top\mnsx\media\config\MyMetaObjectHandler.class
+top\mnsx\media\service\MediaFileService.class
+top\mnsx\media\mapper\MediaFileMapper.class
+top\mnsx\media\service\impl\MediaFileServiceImpl.class
+top\mnsx\media\config\MinIoConfig.class

@@ -1,0 +1,15 @@
+#微服务配置
+spring:
+  application:
+    name: study-service
+  cloud:
+    nacos:
+      server-addr: 192.168.92.131:8848
+      discovery:
+        group: xxt
+      config:
+        group: xxt
+        file-extension: yaml
+        refresh-enabled: true
+  profiles:
+    active: dev

@@ -1,0 +1,23 @@
+# 微服务配置
+spring:
+  application:
+    name: auth-api
+  cloud:
+    nacos:
+      server-addr: 192.168.92.131:8848
+      discovery:
+        group: xxt
+      config:
+        group: xxt
+        file-extension: yaml
+        refresh-enabled: true
+        shared-configs:
+          - data-id: redis-cache-${spring.profiles.active}.yaml
+            group: xxt
+            refresh: true
+        extension-configs:
+          - data-id: auth-service-${spring.profiles.active}.yaml
+            group: xxt
+            refresh: true
+  profiles:
+    active: dev

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="top.mnsx.course.mapper.CourseCatalogueMapper">
+
+    <resultMap id="BaseResultMap" type="top.mnsx.course.po.CourseCatalogue">
+            <id property="id" column="id" jdbcType="INTEGER"/>
+            <result property="courseId" column="course_id" jdbcType="INTEGER"/>
+            <result property="catalogueName" column="catalogue_name" jdbcType="VARCHAR"/>
+            <result property="parentId" column="parent_id" jdbcType="INTEGER"/>
+            <result property="mediaType" column="media_type" jdbcType="INTEGER"/>
+            <result property="isPreview" column="is_preview" jdbcType="INTEGER"/>
+            <result property="startTime" column="start_time" jdbcType="TIMESTAMP"/>
+            <result property="endTime" column="end_time" jdbcType="TIMESTAMP"/>
+            <result property="catalogueDesc" column="catalogue_desc" jdbcType="VARCHAR"/>
+            <result property="videoTime" column="video_time" jdbcType="VARCHAR"/>
+            <result property="orderBy" column="order_by" jdbcType="INTEGER"/>
+            <result property="status" column="status" jdbcType="INTEGER"/>
+            <result property="createTime" column="create_time" jdbcType="TIMESTAMP"/>
+            <result property="updateTime" column="update_time" jdbcType="TIMESTAMP"/>
+    </resultMap>
+
+    <resultMap id="treeNodeResultMap" type="top.mnsx.course.dto.CatalogueDto">
+        <id column="one_id" property="id"/>
+        <result column="one_catalogueName" property="catalogueName"/>
+        <result column="one_parentId" property="parentId"/>
+        <result column="one_mediaType" property="mediaType"/>
+        <result column="one_startTime" property="startTime"/>
+        <result column="one_endTime" property="endTime"/>
+        <result column="one_orderBy" property="orderBy"/>
+        <result column="one_courseId" property="courseId"/>
+        <collection property="catalogueTreeNodes" ofType="top.mnsx.course.dto.CatalogueDto">
+            <id column="two_id" property="id"/>
+            <result column="two_catalogueName" property="catalogueName"/>
+            <result column="two_parentId" property="parentId"/>
+            <result column="two_mediaType" property="mediaType"/>
+            <result column="two_startTime" property="startTime"/>
+            <result column="two_endTime" property="endTime"/>
+            <result column="two_orderBy" property="orderBy"/>
+            <result column="two_courseId" property="courseId"/>
+            <association property="catalogueMedia" javaType="top.mnsx.course.po.CatalogueMedia">
+                <id column="catalogueMediaId" property="id"/>
+                <result column="filename" property="fileName"/>
+                <result column="mediaId" property="mediaId"/>
+                <result column="two_id" property="catalogueId"/>
+                <result column="two_courseId" property="courseId"/>
+            </association>
+        </collection>
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        id,course_id,catalogue_name,
+        parent_id,media_type,is_preview,
+        start_time,end_time,catalogue_desc,
+        video_time,order_by,status,
+        create_time,update_time
+    </sql>
+    <select id="selectTreeNodes" parameterType="int" resultMap="treeNodeResultMap">
+        select
+            one.id one_id,
+            one.catalogue_name one_catalogueName,
+            one.parent_id one_parentId,
+            one.media_type one_mediaType,
+            one.start_time one_startTime,
+            one.end_time one_endTime,
+            one.order_by one_orderBy,
+            one.course_id one_courseId,
+            two.id two_id,
+            two.catalogue_name two_catalogueName,
+            two.parent_id two_parentId,
+            two.media_type two_mediaType,
+            two.start_time two_startTime,
+            two.end_time two_endTime,
+            two.order_by two_orderBy,
+            two.course_id two_courseId,
+            m1.file_name filename,
+            m1.id catalogueMediaId,
+            m1.media_id mediaId
+        from course_catalogue one
+            inner join course_catalogue two on one.id = two.parent_id
+            left join course_catalogue_media m1 on m1.catalogue_id = two.id
+        where one.parent_id = 0 and one.course_id = #{value}
+        order by one.order_by, two.order_by
+    </select>
+</mapper>

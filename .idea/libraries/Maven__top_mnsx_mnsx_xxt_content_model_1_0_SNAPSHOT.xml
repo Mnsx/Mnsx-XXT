@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: top.mnsx:mnsx_xxt_content_model:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Application/Maven/apache-maven-3.8.6-bin/repository/top/mnsx/mnsx_xxt_content_model/1.0-SNAPSHOT/mnsx_xxt_content_model-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/mnsx_xxt_course/mnsx_xxt_course_model/mnsx_xxt_content_model-1.0-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Application/Maven/apache-maven-3.8.6-bin/repository/top/mnsx/mnsx_xxt_content_model/1.0-SNAPSHOT/mnsx_xxt_content_model-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/mnsx_xxt_course/mnsx_xxt_course_model/mnsx_xxt_content_model-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Application/Maven/apache-maven-3.8.6-bin/repository/top/mnsx/mnsx_xxt_content_model/1.0-SNAPSHOT/mnsx_xxt_content_model-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="top.mnsx.course.mapper.CourseInfoMapper">
+
+    <resultMap id="BaseResultMap" type="top.mnsx.model.po.CourseInfo">
+            <id property="id" column="id" jdbcType="INTEGER"/>
+            <result property="courseName" column="course_name" jdbcType="VARCHAR"/>
+            <result property="tags" column="tags" jdbcType="VARCHAR"/>
+            <result property="firstCategory" column="first_category" jdbcType="VARCHAR"/>
+            <result property="secondCategory" column="second_category" jdbcType="VARCHAR"/>
+            <result property="ifCharge" column="if_charge" jdbcType="INTEGER"/>
+            <result property="courseDesc" column="course_desc" jdbcType="VARCHAR"/>
+            <result property="picture" column="picture" jdbcType="VARCHAR"/>
+            <result property="createTime" column="create_time" jdbcType="TIMESTAMP"/>
+            <result property="creator" column="creator" jdbcType="VARCHAR"/>
+            <result property="updateTime" column="update_time" jdbcType="TIMESTAMP"/>
+            <result property="updator" column="updator" jdbcType="VARCHAR"/>
+            <result property="auditStatus" column="audit_status" jdbcType="INTEGER"/>
+            <result property="status" column="status" jdbcType="INTEGER"/>
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        id,course_name,tags,
+        first_category,second_category,if_charge,
+        course_desc,picture,create_time,
+        creator,update_time,updator,
+        audit_status,status
+    </sql>
+</mapper>
